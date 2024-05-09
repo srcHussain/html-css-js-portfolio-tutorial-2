@@ -198,8 +198,8 @@ section {
   font-size: 3rem;
   text-align: center;
 }
-
-#socials-container {
+/* TO CALL THE SOCIALS-CONTAINERS CLASS A . IS NEEDED INSTEAD OF # */
+.socials-container {
   display: flex;
   justify-content: center;
   margin-top: 1rem;
